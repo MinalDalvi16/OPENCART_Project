@@ -1,0 +1,40 @@
+2025-03-28 14:54:12 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-28 14:54:12 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
+2025-03-28 14:54:13 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
+2025-03-28 14:54:13 INFO  AccountRegistrationTest01:31 - Providing customer details...
+2025-03-28 14:54:14 INFO  AccountRegistrationTest01:45 - Validating expected message..
+2025-03-28 14:54:14 INFO  AccountRegistrationTest01:50 - Test passed
+2025-03-28 14:54:14 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-28 14:54:16 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
+2025-03-28 14:54:17 INFO  LoginTest_02:35 - clicked on ligin button..
+2025-03-28 14:54:18 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
+2025-03-28 15:03:49 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-28 15:03:49 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
+2025-03-28 15:03:50 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
+2025-03-28 15:03:50 INFO  AccountRegistrationTest01:31 - Providing customer details...
+2025-03-28 15:03:51 INFO  AccountRegistrationTest01:45 - Validating expected message..
+2025-03-28 15:03:51 INFO  AccountRegistrationTest01:50 - Test passed
+2025-03-28 15:03:51 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-28 15:03:53 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
+2025-03-28 15:03:54 INFO  LoginTest_02:35 - clicked on ligin button..
+2025-03-28 15:03:55 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
+2025-03-28 15:05:30 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-28 15:05:30 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
+2025-03-28 15:05:31 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
+2025-03-28 15:05:31 INFO  AccountRegistrationTest01:31 - Providing customer details...
+2025-03-28 15:05:32 INFO  AccountRegistrationTest01:45 - Validating expected message..
+2025-03-28 15:05:32 INFO  AccountRegistrationTest01:50 - Test passed
+2025-03-28 15:05:32 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-28 15:05:35 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
+2025-03-28 15:05:36 INFO  LoginTest_02:35 - clicked on ligin button..
+2025-03-28 15:05:36 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
+2025-03-28 15:10:06 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-28 15:10:07 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
+2025-03-28 15:10:07 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
+2025-03-28 15:10:07 INFO  AccountRegistrationTest01:31 - Providing customer details...
+2025-03-28 15:10:09 INFO  AccountRegistrationTest01:45 - Validating expected message..
+2025-03-28 15:10:09 INFO  AccountRegistrationTest01:50 - Test passed
+2025-03-28 15:10:09 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-28 15:10:11 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
+2025-03-28 15:10:12 INFO  LoginTest_02:35 - clicked on ligin button..
+2025-03-28 15:10:13 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
