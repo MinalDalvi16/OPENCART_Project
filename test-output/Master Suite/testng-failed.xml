@@ -5,20 +5,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_005_LogOutTest">
-        <methods>
-          <include name="verify_LogOutTest"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_005_LogOutTest -->
-      <class name="testCases.LoginTest_02">
+      <class name="testCases.TC_006_Forgot_Password">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verify_login"/>
+          <include name="verify_Forgot_PasswordFuntionality"/>
         </methods>
-      </class> <!-- testCases.LoginTest_02 -->
+      </class> <!-- testCases.TC_006_Forgot_Password -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

@@ -10,8 +10,9 @@
 
     <classes>
     <class name="testCases.AccountRegistrationTest01"/>
-    <class name="testCases.LoginTest_02"></class>
-      <class name="testCases.TC_005_LogOutTest"></class>
+   <class name="testCases.LoginTest_02"></class>
+    <class name="testCases.TC_005_LogOutTest"></class>
+       <class name="testCases.TC_006_Forgot_Password"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
