@@ -1,0 +1,55 @@
+[33mcommit 56c2e88cbbf3754014a5e519e36468a3238d5988[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: MinalDalvi16 <dalvi.minal16@gmail.com>
+Date:   Tue Apr 1 11:25:21 2025 +0530
+
+    search module chnages
+
+[33mcommit 1245b46254fbd519dfe63ecf9b48f02d268f5498[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 81fc06a f0499ea
+Author: MinalDalvi16 <dalvi.minal16@gmail.com>
+Date:   Sat Mar 29 13:08:03 2025 +0530
+
+    Resolved merge conflicts
+
+[33mcommit f0499eab516b5409c1e17ec39047025001229a75[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: MinalDalvi16 <dalvi.minal16@gmail.com>
+Date:   Sat Mar 29 13:04:33 2025 +0530
+
+    test case add forgot password
+
+[33mcommit edcd100397bda5075f2fde8ed19e11c363f5e49e[m
+Author: MinalDalvi16 <dalvi.minal16@gmail.com>
+Date:   Sat Mar 29 12:38:18 2025 +0530
+
+    logout test case add
+
+[33mcommit 34da6c2382ac138441caf09a0a6c1518eaa95565[m
+Merge: 2cc1f24 81fc06a
+Author: Minal Dalvi <dalvi.minal16@gmail.com>
+Date:   Fri Mar 28 16:47:21 2025 +0530
+
+    new file added test.xml
+
+[33mcommit 81fc06a065ab973da15006686994794da5e834bc[m
+Author: MinalDalvi16 <115138410+MinalDalvi16@users.noreply.github.com>
+Date:   Fri Mar 28 16:35:22 2025 +0530
+
+    Create test.xml
+
+[33mcommit 2cc1f2442e90bf9d4655dc1aa80565930e15885a[m
+Author: Minal Dalvi <dalvi.minal16@gmail.com>
+Date:   Fri Mar 28 16:32:00 2025 +0530
+
+    3rd commit
+
+[33mcommit 5af2d86f8cc87afe6c8abc6adb2ae091ea120424[m
+Author: Minal Dalvi <dalvi.minal16@gmail.com>
+Date:   Fri Mar 28 16:17:53 2025 +0530
+
+    first commit
+
+[33mcommit f37c54e14799906c9ff2f46c9e2fa936348e3c4b[m
+Author: Minal Dalvi <dalvi.minal16@gmail.com>
+Date:   Fri Mar 28 16:16:39 2025 +0530
+
+    new file add today 28-03-2025
