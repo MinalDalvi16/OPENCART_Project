@@ -1,113 +1,47 @@
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2025-03-29 12:25:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2025-03-29 12:28:39 INFO  Utils:112 - [TestNG] Running:
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-01 11:18:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse-1633906121\testng-customsuite.xml
+
+2025-04-01 11:18:32 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@640f11a1: 36 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3eeb318f: 107 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e7634b9: 13 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4da602fc: 13 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4a891c97: 10 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@16746061: 9 ms
+2025-04-01 11:18:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@57fd91c9: 1 ms
+2025-04-01 11:20:17 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
 
-2025-03-29 12:28:46 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 12:28:46 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 12:28:47 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 12:28:47 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 12:28:48 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 12:28:48 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 12:28:48 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 12:28:50 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 12:28:53 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 12:28:53 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
-2025-03-29 12:32:11 INFO  Utils:112 - [TestNG] Running:
+2025-04-01 11:20:41 INFO  Utils:112 - [TestNG] Running:
   C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
 
-2025-03-29 12:32:14 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 12:32:14 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 12:32:15 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 12:32:15 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 12:32:16 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 12:32:16 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 12:32:16 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 12:32:18 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 12:32:19 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 12:32:20 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
-2025-03-29 12:34:13 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 12:34:16 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 12:34:16 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 12:34:17 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 12:34:17 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 12:34:18 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 12:34:18 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 12:34:18 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 12:34:20 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 12:34:21 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 12:34:22 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
-2025-03-29 12:35:06 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 12:35:11 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 12:35:11 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 12:35:13 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 12:35:13 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 12:35:14 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 12:35:14 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 12:35:14 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 12:35:17 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 12:35:18 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 12:35:19 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
-2025-03-29 12:36:01 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 12:36:03 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 12:36:04 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 12:36:04 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 12:36:04 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 12:36:05 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 12:36:06 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 12:36:06 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 12:36:08 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 12:36:09 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 12:36:10 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
-2025-03-29 13:01:03 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 13:01:32 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 13:02:07 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 13:03:00 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\ADMIN\git\repository\OpenCartProj\testng.xml
-
-2025-03-29 13:03:02 INFO  AccountRegistrationTest01:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-29 13:03:03 INFO  AccountRegistrationTest01:24 - Clicked on MyAccount Link.. 
-2025-03-29 13:03:03 INFO  AccountRegistrationTest01:27 - Clicked on Register Link.. 
-2025-03-29 13:03:03 INFO  AccountRegistrationTest01:31 - Providing customer details...
-2025-03-29 13:03:04 INFO  AccountRegistrationTest01:45 - Validating expected message..
-2025-03-29 13:03:04 INFO  AccountRegistrationTest01:50 - Test passed
-2025-03-29 13:03:04 INFO  AccountRegistrationTest01:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-29 13:03:06 INFO  LoginTest_02:20 - ***********Strating TC_02 Login Test************
-2025-03-29 13:03:07 INFO  LoginTest_02:35 - clicked on ligin button..
-2025-03-29 13:03:08 INFO  LoginTest_02:50 - **** Finished TC_002_LoginTest  ****
